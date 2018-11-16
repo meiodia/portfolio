@@ -1,0 +1,501 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"te",
+				"text-indent\tproperty"
+			],
+			[
+				"col",
+				"col-lg-6"
+			],
+			[
+				"r",
+				"right\tbackground-position"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"fon",
+				"font-variant\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"hi",
+				"hidden-xs"
+			],
+			[
+				"bt",
+				"btn-sm"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"pu",
+				"pull-right"
+			],
+			[
+				"c",
+				"clear\tAttr"
+			],
+			[
+				"tp",
+				"top\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"TE",
+				"text-left"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"bod",
+				"border-radius\tproperty"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"imp",
+				"important"
+			],
+			[
+				"vitr",
+				"vitrinelab"
+			],
+			[
+				"link",
+				"linkedin"
+			],
+			[
+				"FON",
+				"font-size"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"do",
+				"do_shortcode"
+			],
+			[
+				"col-",
+				"col-md-3"
+			],
+			[
+				"padd",
+				"padding-top-100"
+			],
+			[
+				"co",
+				"col-sm-12"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"vi",
+				"visible-xs"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tex",
+				"text-center"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"RE",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Mat",
+				"Material Theme: Activate theme"
+			],
+			[
+				"ree",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"ew",
+				"View Package File"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"r",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"REI",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"red",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 524.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/portfolio/wp-content/themes/cassiusfraga"
+	],
+	"file_history":
+	[
+		"/Volumes/Work/CLIENTES/cassiusfraga/404-2.html",
+		"/Volumes/Work/CLIENTES/cassiusfraga/404-3.html",
+		"/Volumes/Work/CLIENTES/cassiusfraga/style.css",
+		"/Users/cassius/Downloads/supernovo-1.sql",
+		"/Users/cassius/Library/Caches/Transmit/717C4C7C-4B42-4061-8B65-17CAD58DE012/ftp.cassiusfraga.com/public_html/novo/wp-config.php",
+		"/Users/cassius/Library/Caches/Transmit/AB193A64-332D-4948-B765-ED33DD28242F/ftp.manhuacu.com/public_html/wp-blog-header.php",
+		"/Users/cassius/Library/Caches/Transmit/9373B268-FB4D-4BF7-AC2F-447182C605C6/ftp.manhuacu.com/public_html/.htaccess",
+		"/Users/cassius/Library/Caches/Transmit/C574C1D6-04E1-4326-BCB2-1895922376A7/ftp.manhuacu.com/public_html/novo/.htaccess",
+		"/Users/cassius/Library/Caches/Transmit/29DF1E64-7859-44E7-9E93-351508BB2EE9/ftp.manhuacu.com/public_html/wp-content/themes/html5blank-stable/menuzera.php",
+		"/Users/cassius/Library/Caches/Transmit/3454B074-86AC-441D-9B63-76DCBAE87036/ftp.manhuacu.com/public_html/wp-content/themes/html5blank-stable/header.php",
+		"/Users/cassius/Library/Caches/Transmit/81AB7657-D52F-456D-A9BD-053B41B75D4A/ftp.cassiusfraga.com/public_html/novo/.htaccess",
+		"/Applications/XAMPP/xamppfiles/htdocs/delivery/wp-content/themes/videodelivery/index 2.php",
+		"/Volumes/Work/CLIENTES/cassiusfraga/cassius.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/tanque/wp-content/themes/tanque/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/tanque/wp-content/themes/tanque/js/main-minimal.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/tanque/wp-content/themes/tanque/js/main-slideshow.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/tanque/wp-content/themes/tanque/js/main-min.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/delivery/wp-content/themes/videodelivery/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/delivery/wp-content/themes/videodelivery/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tanque/wp-content/themes/tanque/untitled.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/delivery/wp-content/themes/videodelivery/css/settings.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/video-delivery/videodelivery_HTML.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/video-delivery/blog-list-3.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/video-delivery/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/video-delivery/blog-detail.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/video-delivery/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/corecones/wp-config.php",
+		"/Users/cassius/Library/Caches/Transmit/7458F7A1-E911-4111-BBED-9D2978122BA3/ftp.vitrinelab.web2453.uni5.net/home/vitrinelab/www/corecons/wp-config.php",
+		"/Users/cassius/Library/Caches/Transmit/7CCF7751-93DD-430D-B4F6-87427A4AA0A4/ftp.vitrinelab.web2453.uni5.net/home/vitrinelab/www/corecons/wp-content/themes/corecon/index.php",
+		"/Users/cassius/Library/Caches/Transmit/B46EE7BF-4E55-4ABD-A1E5-E2B223E483BE/ftp.manhuacu.com/public_html/novo/wp-content/themes/html5blank-stable/header.php",
+		"/Users/cassius/Library/Caches/Transmit/AA8A3AD9-323E-4681-A5C4-38091F3823BC/ftp.web7627.kinghost.net/home/prisembalagens/www/wp-content/themes/pris/footer.php",
+		"/Users/cassius/Library/Caches/Transmit/C39CB28F-8D39-4CBF-8A9B-C626D419D422/ftp.web7625.kinghost.net/www/wp-content/themes/pris/footer.php",
+		"/Users/cassius/Library/Caches/Transmit/6389FDF8-55EE-4552-8901-D2AC8BF1329C/ftp.prisfood1.hospedagemdesites.ws/web/novo/wp-content/themes/pris/footer.php",
+		"/Users/cassius/Library/Caches/Transmit/E6AA1483-F26B-4404-9FD3-D6FF42F3DD7D/ftp.web7627.kinghost.net/home/prisembalagens/www/wp-content/themes/pris/archive-customizados.php",
+		"/Users/cassius/Library/Caches/Transmit/DDDBA707-C36C-4FC4-BD2C-F05ADECDFCB3/ftp.manhuacu.com/public_html/.htaccess",
+		"/Users/cassius/Library/Caches/Transmit/CE6C59C2-4E8F-4CC0-9121-E5E492060867/ftp.manhuacu.com/public_html/.htaccess",
+		"/Users/cassius/Library/Caches/Transmit/2169F141-662C-45D8-AD6D-087355561B61/ftp.portaldoeconomista.org.br/home/storage/1/7e/28/portaldoeconomista/public_html/.htaccess",
+		"/Users/cassius/Library/Caches/Transmit/814ABDC7-1275-4096-918B-FA6A66156AC1/ftp.vitrinelab.web2453.uni5.net/home/vitrinelab/www/corecons/wp-content/themes/corecon/index.php",
+		"/Users/cassius/Library/Caches/Transmit/2E62A773-2E1E-42B3-91F8-493B5FEF7924/ftp.vitrinelab.web2453.uni5.net/home/vitrinelab/www/corecons/.htaccess",
+		"/Users/cassius/Library/Caches/Transmit/2CA52370-73C0-4555-81F6-5807533ED9A6/ftp.manhuacu.com/public_html/novo/wp-content/themes/html5blank-stable/single.php",
+		"/Users/cassius/Library/Caches/Transmit/6E1A3DAA-2CD7-4A4F-9642-37D284416550/ftp.manhuacu.com/public_html/novo/wp-content/themes/html5blank-stable/single.php",
+		"/Users/cassius/Library/Caches/Transmit/90536112-6AD6-4457-9CAA-92F608B6B5BD/ftp.manhuacu.com/public_html/novo/wp-content/themes/html5blank-stable/header-internas.php",
+		"/Users/cassius/Library/Caches/Transmit/DB6E249E-03F3-4036-B80F-561F95404A72/ftp.manhuacu.com/public_html/novo/wp-content/themes/html5blank-stable/index.php",
+		"/Users/cassius/Library/Caches/Transmit/9D8CAE17-FC12-4F43-A099-D2564684FE70/ftp.portaldoeconomista.org.br/public_html/2018/wp-config.php",
+		"/Users/cassius/Library/Caches/Transmit/FDC105C5-F098-4DCD-8F34-2FA0314B6C62/ftp.portaldoeconomista.org.br/public_html/2018/wp-content/wflogs/attack-data.php",
+		"/Volumes/Work/BKP-htdocs-jul-2018/corecon/wp-config.php",
+		"/Users/cassius/Library/Caches/Transmit/324A335F-80F5-436A-A03D-F84469B96DB6/ftp.portaldoeconomista.org.br/public_html/2018/wp-config.php",
+		"/Users/cassius/Library/Caches/Transmit/3C7E7815-2C1A-4D7C-A0F4-EBD2D9E96568/ftp.vitrinelab.web2453.uni5.net/home/vitrinelab/www/manhuacu/wp-content/themes/html5blank-stable/single-galeria-de-fotos.php",
+		"/Users/cassius/Library/Caches/Transmit/F075A1FB-9FCD-48EE-AF77-BB0359F2E304/ftp.web7627.kinghost.net/home/prisembalagens/www/wp-content/themes/pris/page-institucional.php",
+		"/Users/cassius/Desktop/sitiosite/index.php",
+		"/Users/cassius/Library/Caches/Transmit/708E4CD1-F253-42F9-8849-2CD299133BB8/ftp.web7627.kinghost.net/home/prisembalagens/www/wp-content/themes/pris/footer.php",
+		"/Users/cassius/Desktop/manhuacu 2.sql",
+		"/Users/cassius/Library/Caches/Transmit/CE2B0DCF-7580-45DB-889B-52DF397240B0/ftp.web7629.kinghost.net/www/wp-content/themes/plamaster/assets/css/styles.css",
+		"/Users/cassius/Library/Caches/Transmit/45654C17-A291-494F-AE4F-797AE2CD55F0/ftp.web7627.kinghost.net/home/prisembalagens/www/wp-config.php",
+		"/Users/cassius/Library/Caches/Transmit/F7EEAAB2-F288-4E27-AB33-4243D2F1260A/ftp.marcuspestana.com.br/public_html/site/template.php",
+		"/Users/cassius/Library/Caches/Transmit/AEE3FC33-191D-4BBD-8FF1-FD300D49C8DC/ftp.marcuspestana.com.br/public_html/.htaccess",
+		"/Users/cassius/Library/Caches/Transmit/96245355-9913-4CAB-879F-F2CC04536B41/ftp.web7629.kinghost.net/www/wp-content/themes/plamaster/assets/css/styles.css",
+		"/Users/cassius/Library/Caches/Transmit/77B7F433-3326-478F-B952-934866419302/ftp.marcuspestana.com.br/public_html/index.php",
+		"/Users/cassius/Library/Caches/Transmit/97A590BF-189B-4A6F-A5D4-F1280A24880F/ftp.vitrinelab.web2453.uni5.net/home/vitrinelab/www/manhuacu/wp-content/themes/html5blank-stable/sidebar.php",
+		"/Users/cassius/Library/Caches/Transmit/D0A6D97E-EC57-4367-AC76-D4453B64ACB0/ftp.vitrinelab.web2453.uni5.net/home/vitrinelab/www/manhuacu/wp-content/themes/html5blank-stable/index.php",
+		"/Users/cassius/Library/Caches/Transmit/AE1A3412-B305-4983-B016-7D250BA21695/ftp.vitrinelab.web2453.uni5.net/home/vitrinelab/www/manhuacu/wp-content/themes/html5blank-stable/header.php",
+		"/Users/cassius/Library/Caches/Transmit/5DDE282C-8DBF-48EC-A12A-8760B1D27A13/ftp.vitrinelab.web2453.uni5.net/home/vitrinelab/www/manhuacu/wp-content/themes/html5blank-stable/single.php",
+		"/Users/cassius/Library/Caches/Transmit/E327FC34-CD63-40BB-AD5A-8813D9E838B0/ftp.vitrinelab.web2453.uni5.net/home/vitrinelab/www/manhuacu/wp-content/themes/html5blank-stable/index.php",
+		"/Users/cassius/Library/Caches/Transmit/37BE4BF4-696B-40C0-89C6-FBAD1BED9ED5/ftp.atmainterativa.com.br/home/atmainterativa/www/wp-config.php",
+		"/Users/cassius/Desktop/single.php",
+		"/Users/cassius/Library/Caches/Transmit/D8B8401C-6011-4769-91D8-3E3158DEE25B/ftp.vitrinelab.web2453.uni5.net/home/vitrinelab/www/manhuacu/wp-content/themes/html5blank-stable/index.php",
+		"/Users/cassius/Library/Caches/Transmit/96B53497-16FE-4DE9-A54B-3C48CDB69A19/ftp.vitrinelab.web2453.uni5.net/home/vitrinelab/www/manhuacu/wp-content/themes/html5blank-stable/stylesheets/style.css",
+		"/Users/cassius/Library/Caches/Transmit/9B3704E3-7195-448A-8C3D-2B43A555C6B1/ftp.vitrinelab.web2453.uni5.net/home/vitrinelab/www/manhuacu/wp-content/themes/html5blank-stable/sidebar.php",
+		"/Users/cassius/Library/Caches/Transmit/8ACC4EEF-0B9D-4C47-BB5D-BB50EE063042/ftp.vitrinelab.web2453.uni5.net/home/vitrinelab/www/manhuacu/wp-content/themes/html5blank-stable/page-mural-de-recados.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/manhuacu/index-banner.html",
+		"/Users/cassius/Library/Caches/Transmit/01E46E0F-2719-454E-96FC-1C45D0945A0E/ftp.web7045.uni5.net/home/sbggmg/www/wp-content/themes/padrao/archive-geriatria.php",
+		"/Users/cassius/Library/Caches/Transmit/92294993-B5EF-4481-9948-30FAEF8657E4/ftp.web7045.uni5.net/home/sbggmg/www/wp-content/themes/padrao/archive-presidentes.php",
+		"/Users/cassius/Library/Caches/Transmit/B5B75029-6F19-4D66-9CEC-F3FE3AAAC8D1/ftp.web7629.kinghost.net/www/wp-content/themes/plamaster/index.php",
+		"/Users/cassius/Library/Caches/Transmit/CCBFF246-FAEE-4947-A148-FF968B7068D9/ftp.web7045.uni5.net/home/sbggmg/www/wp-content/themes/padrao/header.php",
+		"/Users/cassius/Library/Caches/Transmit/A11A234A-4788-4D67-B974-3AE90203511F/ftp.andrepapiniadvocacia.com.br/www/wp-content/themes/papini/footer.php",
+		"/Users/cassius/Library/Caches/Transmit/E3F63C18-7577-485D-9B7B-407E608A05F5/ftp.andrepapiniadvocacia.com.br/www/wp-content/themes/papini/footer.php",
+		"/Users/cassius/Library/Caches/Transmit/DD6360F7-FC8F-43BA-BCCB-BCD1F665D7F3/ftp.vitrinelab.web2453.uni5.net/www/manhuacu/wp-content/themes/html5blank-stable/header-categorias.php",
+		"/Users/cassius/Library/Caches/Transmit/27EEDA4D-E272-4588-9880-B8878FE2E950/ftp.vitrinelab.web2453.uni5.net/www/prisembalagens/wp-content/themes/pris/footer.php",
+		"/Users/cassius/Library/Caches/Transmit/7B3CDA4B-E078-431C-B24D-E480433E1162/atma.web2245.uni5.net/www/papini/site/wp-content/themes/twentyfifteen/archive-eventos.php",
+		"/Users/cassius/Library/Caches/Transmit/7C665D27-D630-491B-9348-4DE091405989/ftp.vitrinelab.web2453.uni5.net/www/manhuacu/wp-content/themes/html5blank-stable/index.php",
+		"/Users/cassius/Library/Caches/Transmit/600C7024-EEDE-4323-BC80-52F1EA97887C/ftp.vitrinelab.web2453.uni5.net/www/manhuacu/wp-content/themes/html5blank-stable/single-galeria-de-fotos.php",
+		"/Users/cassius/Library/Caches/Transmit/63022F76-1327-46E8-A0D6-365607C08CEF/ftp.vitrinelab.web2453.uni5.net/www/manhuacu/wp-content/themes/html5blank-stable/category-bombeiros.php",
+		"/Users/cassius/Library/Caches/Transmit/3A599453-2D21-43BF-A2C0-15FA76AF87E2/ftp.vitrinelab.web2453.uni5.net/www/manhuacu/wp-content/themes/html5blank-stable/header.php",
+		"/Users/cassius/Library/Caches/Transmit/D5D5A625-C8B4-45E2-9B01-99FB4315B251/ftp.vitrinelab.web2453.uni5.net/www/manhuacu/wp-content/themes/html5blank-stable/category-bombeiros.php",
+		"/Users/cassius/Library/Caches/Transmit/27747F79-324A-492F-A3B7-DB212891F791/ftp.vitrinelab.web2453.uni5.net/www/manhuacu/wp-content/themes/html5blank-stable/index.php",
+		"/Users/cassius/Library/Caches/Transmit/D5FB1929-3F27-4F1F-91C3-9CA3D70A1C74/ftp.web7629.kinghost.net/www/wp-content/themes/plamaster/index.php",
+		"/Users/cassius/Library/Caches/Transmit/1811C578-E36A-467A-ADF5-BE0753F12DE3/ftp.web7629.kinghost.net/www/wp-content/themes/plamaster/archive-contatos.php",
+		"/Users/cassius/Library/Caches/Transmit/12C8A651-99A6-424A-91B2-3F780413873E/ftp.vitrinelab.web2453.uni5.net/www/geriatria/wp-content/themes/padrao/archive-eventos.php",
+		"/Users/cassius/Library/Caches/Transmit/FC544A91-D2BA-4245-89FA-488DA51F3F51/ftp.vitrinelab.web2453.uni5.net/www/geriatria/wp-content/themes/padrao/index.php",
+		"/Users/cassius/Desktop/html5blank-stable/README.md",
+		"/Users/cassius/Desktop/_s-master/style.css",
+		"/Users/cassius/Desktop/_s-master/rtl.css",
+		"/Users/cassius/Desktop/_s-master/archive.php",
+		"/Users/cassius/Library/Caches/Transmit/641FFA6E-E80B-42DC-80D2-58DFC6B6D270/ftp.vitrinelab.web2453.uni5.net/www/casaderepouso/wp-content/themes/padrao/single.php",
+		"/Users/cassius/Library/Caches/Transmit/5DC62009-91FD-4811-B816-E3FD6EB96EA7/ftp.vitrinelab.web2453.uni5.net/www/casaderepouso/wp-content/themes/twentysixteen/functions.php",
+		"/Users/cassius/Library/Caches/Transmit/AC06B8B6-16F4-4C4C-866D-F51FD308D2E2/ftp.vitrinelab.web2453.uni5.net/www/casaderepouso/wp-content/themes/padrao/page-suporte.php",
+		"/Users/cassius/Library/Caches/Transmit/0A1AD4A9-4B4E-44BE-AA43-FAF94031BB1B/ftp.andrepapiniadvocacia.com.br/www/novo/wp-content/themes/papini/assets/css/flaticon.css",
+		"/Users/cassius/Library/Caches/Transmit/CB92276E-2734-4D02-96E5-B03DC0A8551C/ftp.andrepapiniadvocacia.com.br/www/novo/wp-content/themes/papini/index.php",
+		"/Users/cassius/Library/Caches/Transmit/DB7B5A44-0D97-4761-AC94-23F5B2016D90/ftp.andrepapiniadvocacia.com.br/www/novo/wp-content/themes/papini/header.php",
+		"/Users/cassius/Library/Caches/Transmit/326E9F73-88EF-4A1E-AD5C-9D8FA7157AC2/ftp.andrepapiniadvocacia.com.br/www/novo/wp-content/themes/papini/footer.php",
+		"/Users/cassius/Library/Caches/Transmit/A678FF2F-7B8A-40FD-922C-C87BB9A524DA/ftp.andrepapiniadvocacia.com.br/www/novo/wp-content/themes/papini/archive-contatos.php",
+		"/Users/cassius/Library/Caches/Transmit/B742198D-B455-4477-9A0D-E522C15CE3FB/ftp.web7625.kinghost.net/www/.htaccess",
+		"/Users/cassius/Library/Caches/Transmit/992BA2F7-F11F-49CD-AC2B-7FAA05256157/ftp.atmainterativa.com.br/home/atmainterativa/www/.htaccess",
+		"/Users/cassius/Library/Caches/Transmit/32492BF7-B5E2-4DA9-A7FF-11E78C994A16/ftp.web2411.uni5.net/www/wp-content/themes/sindute/header.php",
+		"/Users/cassius/Library/Caches/Transmit/E26EFB4D-6C5C-44B8-9853-7FAB724FA183/ftp.web7625.kinghost.net/www/wp-content/themes/spikey/css/style.css",
+		"/Users/cassius/Library/Caches/Transmit/03FBD660-A721-49B9-86FF-B983B08CC52F/ftp.web7625.kinghost.net/www/wp-content/themes/spikey/archive-curso.php",
+		"/Users/cassius/Library/Caches/Transmit/F087A0A2-E70D-485B-91DD-3D23D2B0BBFB/ftp.web7625.kinghost.net/www/wp-content/themes/spikey/index.php",
+		"/Users/cassius/Library/Caches/Transmit/6C681F9A-9D85-4390-8C07-F7514B4DE18D/ftp.web7625.kinghost.net/www/wp-content/themes/spikey/index.php",
+		"/Users/cassius/Library/Caches/Transmit/3795103B-6405-4423-AA46-388B5F025405/ftp.web7625.kinghost.net/www/wp-content/themes/spikey/header.php",
+		"/Users/cassius/Library/Caches/Transmit/8CA5F99A-8A15-4E0D-A92F-9A305D433D1F/ftp.web7625.kinghost.net/www/wp-content/themes/spikey/index.php",
+		"/Users/cassius/Library/Caches/Transmit/C51CE153-2B54-4868-A16D-9809F17BCA72/ftp.web7625.kinghost.net/www/wp-content/themes/spikey/footer.php",
+		"/Users/cassius/Library/Caches/Transmit/8061E383-4729-49F5-83B7-EA4868B4CE26/ftp.web7625.kinghost.net/www/wp-content/themes/spikey/curso.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/papini/papini/header.php",
+		"/Users/cassius/Library/Caches/Transmit/D12E1FCF-DD1C-4B50-BD58-F3736450A723/ftp.web7625.kinghost.net/www/wp-content/themes/spikey/index.php",
+		"/Users/cassius/Library/Caches/Transmit/B08B799D-C9DF-4172-AB97-BB95D70E57BA/ftp.eusoutrina.com.br/www/spikey/curso.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pestana/index.html",
+		"/Volumes/KeepSafe/ATMA-JAN-2018/bkp-dez-htdocs/htdocs-bkp/serro/wp-content/themes/padrao/archive-duvidasfrequentes.php",
+		"/Users/cassius/Library/Caches/Transmit/30F09FAC-857D-4B23-BC26-D5D3FCD394CA/ftp.web7629.kinghost.net/www/wp-content/themes/plamaster/header.php",
+		"/Users/cassius/Library/Caches/Transmit/005C4C3D-7E76-416A-8FC8-1404063E1301/ftp.marcuspestana.com.br/public_html/wordpress/wp-config.php",
+		"/Users/cassius/Library/Caches/Transmit/3AE1D1E8-1B7C-44B7-84C5-1AAAC4D34827/ftp.vitrinelab.web2453.uni5.net/www/casaderepouso/wp-config.php",
+		"/Volumes/KeepSafe/ATMA-JAN-2018/bkp-dez-htdocs/papini/wp-content/themes/twentyfifteen/page-quem-somos.php",
+		"/Users/cassius/Library/Caches/Transmit/E934570B-B00C-4482-B5FA-8779E98E361F/ftp.web7629.kinghost.net/www/wp-content/themes/plamaster/archive-contatos.php",
+		"/Users/cassius/Library/Caches/Transmit/48146745-7C6A-4DEA-8409-F3E2EA4A9A5A/ftp.eusoutrina.com.br/www/spikey/index.php",
+		"/Users/cassius/Library/Caches/Transmit/876BA40F-1677-47B5-A62C-C28EA9517BC6/ftp.eusoutrina.com.br/www/spikey/admin.php",
+		"/Users/cassius/Library/Caches/Transmit/920999A7-9BAE-411D-AD76-59261A2B6F53/ftp.gratidaocomproposito.com.br/gratia/wp-content/themes/busiprof/functions.php",
+		"/Users/cassius/Downloads/project/index.html",
+		"/Users/cassius/Library/Caches/Transmit/89A4A5A2-2EBD-4C92-BA6B-D0B3B5AF250A/ftp.eusoutrina.com.br/www/spikey/css/style.css",
+		"/Users/cassius/Library/Caches/Transmit/44B44552-9CAB-4ED0-B620-0BFCAC25D774/ftp.eusoutrina.com.br/www/spikey/css/style.css"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
