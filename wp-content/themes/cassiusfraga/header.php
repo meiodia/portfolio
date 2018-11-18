@@ -19,6 +19,7 @@
 
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/css/responsive.css" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
 	<!-- Document Title
 	============================================= -->
@@ -57,23 +58,23 @@
 					<nav id="primary-menu">
 
 						<ul>
-							<li><a href="<?php echo home_url() ?>"><div>Sobre</div></a></li>
-							<li class="current"><a href="<?php echo home_url() ?>"><div>Portfolio</div></a></li>
-							<li><a href="<?php echo home_url() ?>"><div>Contato</div></a></li>
+							<li><a href="<?php echo home_url() ?>/about"><div>Sobre</div></a></li>
+							<li class="current"><a href="<?php echo home_url() ?>"><div>Portfólio</div></a></li>
+							<li><a href="<?php echo home_url() ?>/contatos"><div>Contato</div></a></li>
 						</ul>
 
 					</nav><!-- #primary-menu end -->
 
 					<div class="clearfix d-none d-lg-block">
 
-						<a href="#" class="social-icon si-small si-borderless si-behance">
-							<i class="icon-behance"></i>
-							<i class="icon-behance"></i>
+						<a href="https://www.behance.net/meiodia" class="social-icon si-small si-borderless si-behance">
+							<i class="fab fa-behance-square fa-2x"></i>
+							<i class="fab fa-behance-square fa-2x"></i>
 						</a>
 
 						<a href="https://www.linkedin.com/in/cassiusfraga" class="social-icon si-small si-borderless si-linkdin">
-							<i class="icon-linkdin"></i>
-							<i class="icon-linkdin"></i>
+							<i class="fab fa-linkedin fa-2x"></i>
+							<i class="fab fa-linkedin fa-2x"></i>
 						</a>
 					</div>
 

@@ -3789,7 +3789,7 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-notitle .port
 	position: absolute;
 	display: block !important;
 	width: 100%;
-	height: 78px;
+	/*height: 78px;*/
 	padding: 15px 5px;
 	top: auto;
 	bottom: -79px;

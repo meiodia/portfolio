@@ -73,16 +73,16 @@ function add_post_types()
         )
     );
 
-    register_post_type('contato',
+    register_post_type('contatos',
         array(
             'labels' => array(
-                'name' => __('Rodapé'),
-                'singular_name' => __('contato')
+                'name' => __('Contatos'),
+                'singular_name' => __('contatos')
             ),
             'public' => true,
             'menu_position' => 105,
             'has_archive' => true,
-            'rewrite' => array('slug' => 'contato'),
+            'rewrite' => array('slug' => 'contatos'),
         )
     );
 

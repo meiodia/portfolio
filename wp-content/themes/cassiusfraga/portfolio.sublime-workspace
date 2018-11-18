@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
 				"e",
 				"em\tTag"
 			],
@@ -50,10 +54,6 @@
 			[
 				"cl",
 				"class\tAttr"
-			],
-			[
-				"pa",
-				"padding-bottom\tproperty"
 			],
 			[
 				"hi",
@@ -163,6 +163,57 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "<?php get_header() ;?>\n\n<section id=\"content\">\n\t<div class=\"content-wrap nopadding\">\n\n\t\t<div id=\"portfolio\" class=\"portfolio grid-container portfolio-3 portfolio-full portfolio-nomargin portfolio-notitle clearfix\">\n\n\t\t\t<?php if (have_posts()) : while (have_posts()) : the_post(); ?>\n\t\t\t\t<article class=\"portfolio-item pf-icons pf-illustrations\">\n\t\t\t\t\t<div class=\"portfolio-image\">\n\t\t\t\t\t\t<div class=\"fslider\" data-arrows=\"false\" data-speed=\"400\" data-pause=\"4000\">\n\t\t\t\t\t\t\t<div class=\"flexslider\">\n\t\t\t\t\t\t\t\t<div class=\"slider-wrap\">\n\t\t\t\t\t\t\t\t\t<div class=\"slide\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"<?php the_permalink() ?>\" alt=\"<?php the_title(); ?>\"><?php the_post_thumbnail( ); ?></a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"portfolio-desc\">\n\t\t\t\t\t\t<a href=\"<?php the_permalink() ?>\"><h3><?php the_title(); ?></h3></a>\n\t\t\t\t\t</div>\n\t\t\t\t</article>\n\n\t\t\t<?php endwhile; ?>\n\n\t\t\t<?php else : ?>\n\n\t\t\t\t<div <?php post_class(); ?> id=\"post-<?php the_ID(); ?>\">\n\t\t\t\t\t<h1>Not Found</h1>\n\t\t\t\t</div>\n\n\t\t\t<?php endif; ?>\n\t\t\t\n\t\t</div><!-- #portfolio end -->\n\n\t\t<a href=\"<?php echo home_url() ?>/contatos\" class=\"button button-full center button-light button-white\">\n\t\t\t<div class=\"container clearfix\">\n\t\t\t\tPrecisa de ajuda? <strong>Entre em contato</strong> <i class=\"icon-caret-right\" style=\"top:4px;\"></i>\n\t\t\t</div>\n\t\t</a>\n\n\t</div>\n\n</section>\n<?php get_footer(); ?>",
+			"file": "index.php",
+			"file_size": 1432,
+			"file_write_time": 131870335820000000,
+			"settings":
+			{
+				"buffer_size": 1383,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 3887,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "404.php",
+			"settings":
+			{
+				"buffer_size": 858,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en-US\">\n<head>\n\n\t<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n\t<meta name=\"description\" content=\"Sou Designer a 18 anos com experiência em criação de logos, identidades visuais, interfaces e experiência do usuário. Também sou um entusiasta em Front-end e WordPress. Strategic designer with 18 years on brand identity and interdacr design. I also work as interface designer and love apply my skills in front-end and Wordpress.\">\n\t\t<meta name=\"keywords\" content=\", bran\">\n\t\t<meta name=\"author\" content=\"Cassius Fraga - vostokdesign.club\">\n\n\t<!-- Stylesheets\n\t============================================= -->\n\t<link href=\"https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i\" rel=\"stylesheet\" type=\"text/css\" />\n\t<link rel=\"stylesheet\" href=\"<?php echo get_template_directory_uri() ?>/css/bootstrap.css\" type=\"text/css\" />\n\t<link rel=\"stylesheet\" href=\"<?php echo get_template_directory_uri() ?>/style.css\" type=\"text/css\" />\n\t<link rel=\"stylesheet\" href=\"<?php echo get_template_directory_uri() ?>/css/dark.css\" type=\"text/css\" />\n\t<link rel=\"stylesheet\" href=\"<?php echo get_template_directory_uri() ?>/css/font-icons.css\" type=\"text/css\" />\n\t<link rel=\"stylesheet\" href=\"<?php echo get_template_directory_uri() ?>/css/animate.css\" type=\"text/css\" />\n\t<link rel=\"stylesheet\" href=\"<?php echo get_template_directory_uri() ?>/css/magnific-popup.css\" type=\"text/css\" />\n\n\t<link rel=\"stylesheet\" href=\"<?php echo get_template_directory_uri() ?>/css/responsive.css\" type=\"text/css\" />\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<link rel=\"stylesheet\" href=\"https://use.fontawesome.com/releases/v5.5.0/css/all.css\" integrity=\"sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU\" crossorigin=\"anonymous\">\n\n\t<!-- Document Title\n\t============================================= -->\n\t<title>\n\t\t\t<?php bloginfo('name'); // show the blog name, from settings ?> | \n\t\t\t<?php is_front_page() ? bloginfo('description') : wp_title(''); // if we're on the home page, show the description, from the site's settings - otherwise, show the title of the post or page ?>\n\t\t</title>\n\n</head>\n\n<body class=\"stretched side-header\">\n\n\t<!-- Document Wrapper\n\t============================================= -->\n\t<div id=\"wrapper\" class=\"clearfix\">\n\n\t\t<!-- Header\n\t\t============================================= -->\n\t\t<header id=\"header\">\n\n\t\t\t<div id=\"header-wrap\">\n\n\t\t\t\t<div class=\"container clearfix\">\n\n\t\t\t\t\t<div id=\"primary-menu-trigger\"><i class=\"icon-reorder\"></i></div>\n\n\t\t\t\t\t<!-- Logo\n\t\t\t\t\t============================================= -->\n\t\t\t\t\t<div id=\"logo\" class=\"nobottomborder\">\n\t\t\t\t\t\t<a href=\"<?php echo home_url() ?>\" class=\"standard-logo\" data-dark-logo=\"<?php echo get_template_directory_uri() ?>/images/logo-side-dark.png\"><img src=\"<?php echo get_template_directory_uri() ?>/images/logo-side.png\" alt=\"Cassius Fraga\"></a>\n\t\t\t\t\t\t<a href=\"<?php echo home_url() ?>\" class=\"retina-logo\" data-dark-logo=\"<?php echo get_template_directory_uri() ?>/images/logo-side-dark@2x.png\"><img src=\"<?php echo get_template_directory_uri() ?>/images/logo-side@2x.png\" alt=\"Cassius Fraga\"></a>\n\t\t\t\t\t</div><!-- #logo end -->\n\n\t\t\t\t\t<!-- Primary Navigation\n\t\t\t\t\t============================================= -->\n\t\t\t\t\t<nav id=\"primary-menu\">\n\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li><a href=\"<?php echo home_url() ?>/about\"><div>Sobre</div></a></li>\n\t\t\t\t\t\t\t<li class=\"current\"><a href=\"<?php echo home_url() ?>\"><div>Portfólio</div></a></li>\n\t\t\t\t\t\t\t<li><a href=\"<?php echo home_url() ?>/contatos\"><div>Contato</div></a></li>\n\t\t\t\t\t\t</ul>\n\n\t\t\t\t\t</nav><!-- #primary-menu end -->\n\n\t\t\t\t\t<div class=\"clearfix d-none d-lg-block\">\n\n\t\t\t\t\t\t<a href=\"https://www.behance.net/meiodia\" class=\"social-icon si-small si-borderless si-behance\">\n\t\t\t\t\t\t\t<i class=\"fab fa-behance-square fa-2x\"></i>\n\t\t\t\t\t\t\t<i class=\"fab fa-behance-square fa-2x\"></i>\n\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t<a href=\"https://www.linkedin.com/in/cassiusfraga\" class=\"social-icon si-small si-borderless si-linkdin\">\n\t\t\t\t\t\t\t<i class=\"fab fa-linkedin fa-2x\"></i>\n\t\t\t\t\t\t\t<i class=\"fab fa-linkedin fa-2x\"></i>\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\n\t\t\t\t</div>\n\n\t\t\t</div>\n\n\t\t</header><!-- #header end -->\n",
+			"file": "header.php",
+			"file_size": 4314,
+			"file_write_time": 131868014180000000,
+			"settings":
+			{
+				"buffer_size": 4231,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "single.php",
+			"settings":
+			{
+				"buffer_size": 635,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -248,6 +299,14 @@
 	],
 	"file_history":
 	[
+		"/Applications/XAMPP/xamppfiles/htdocs/portfolio/wp-content/themes/cassiusfraga/single.php",
+		"/Users/cassius/Library/Caches/Transmit/4190BC0E-1EEB-497F-8A84-498A13F486A4/ftp.vostokdesign.club/public_html/video-delivery/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/portfolio/wp-content/themes/cassiusfraga/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/portfolio/wp-content/themes/cassiusfraga/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/portfolio/wp-content/themes/cassiusfraga/archive-about.php",
+		"/Users/cassius/Library/Caches/Transmit/AC7E3EFA-1F68-4C6D-B3CF-57F5D30B7D88/ftp.vostokdesign.club/public_html/video-delivery/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/portfolio/wp-content/themes/cassiusfraga/404.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/portfolio/wp-content/themes/cassiusfraga/functions.php",
 		"/Volumes/Work/CLIENTES/cassiusfraga/404-2.html",
 		"/Volumes/Work/CLIENTES/cassiusfraga/404-3.html",
 		"/Volumes/Work/CLIENTES/cassiusfraga/style.css",
@@ -367,15 +426,7 @@
 		"/Volumes/KeepSafe/ATMA-JAN-2018/bkp-dez-htdocs/htdocs-bkp/serro/wp-content/themes/padrao/archive-duvidasfrequentes.php",
 		"/Users/cassius/Library/Caches/Transmit/30F09FAC-857D-4B23-BC26-D5D3FCD394CA/ftp.web7629.kinghost.net/www/wp-content/themes/plamaster/header.php",
 		"/Users/cassius/Library/Caches/Transmit/005C4C3D-7E76-416A-8FC8-1404063E1301/ftp.marcuspestana.com.br/public_html/wordpress/wp-config.php",
-		"/Users/cassius/Library/Caches/Transmit/3AE1D1E8-1B7C-44B7-84C5-1AAAC4D34827/ftp.vitrinelab.web2453.uni5.net/www/casaderepouso/wp-config.php",
-		"/Volumes/KeepSafe/ATMA-JAN-2018/bkp-dez-htdocs/papini/wp-content/themes/twentyfifteen/page-quem-somos.php",
-		"/Users/cassius/Library/Caches/Transmit/E934570B-B00C-4482-B5FA-8779E98E361F/ftp.web7629.kinghost.net/www/wp-content/themes/plamaster/archive-contatos.php",
-		"/Users/cassius/Library/Caches/Transmit/48146745-7C6A-4DEA-8409-F3E2EA4A9A5A/ftp.eusoutrina.com.br/www/spikey/index.php",
-		"/Users/cassius/Library/Caches/Transmit/876BA40F-1677-47B5-A62C-C28EA9517BC6/ftp.eusoutrina.com.br/www/spikey/admin.php",
-		"/Users/cassius/Library/Caches/Transmit/920999A7-9BAE-411D-AD76-59261A2B6F53/ftp.gratidaocomproposito.com.br/gratia/wp-content/themes/busiprof/functions.php",
-		"/Users/cassius/Downloads/project/index.html",
-		"/Users/cassius/Library/Caches/Transmit/89A4A5A2-2EBD-4C92-BA6B-D0B3B5AF250A/ftp.eusoutrina.com.br/www/spikey/css/style.css",
-		"/Users/cassius/Library/Caches/Transmit/44B44552-9CAB-4ED0-B620-0BFCAC25D774/ftp.eusoutrina.com.br/www/spikey/css/style.css"
+		"/Users/cassius/Library/Caches/Transmit/3AE1D1E8-1B7C-44B7-84C5-1AAAC4D34827/ftp.vitrinelab.web2453.uni5.net/www/casaderepouso/wp-config.php"
 	],
 	"find":
 	{
@@ -393,6 +444,26 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"contato",
+			"Contato",
+			"contato",
+			"destaueprimeiro",
+			"site",
+			"a vídeo",
+			"a vídeo del",
+			"footer",
+			"site",
+			"foot",
+			"content",
+			"footer",
+			"\"></i>",
+			"src=\"images/",
+			"img",
+			"<a href=\"images",
+			"cafe",
+			"empresa",
+			"Empresa",
+			"empresa"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -409,6 +480,162 @@
 	},
 	"groups":
 	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								899,
+								899
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 24.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								774,
+								774
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "404.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 858,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								558,
+								558
+							],
+							[
+								665,
+								665
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3603,
+								3603
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1511.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "single.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
 		{
 			"sheets":
 			[
@@ -432,11 +659,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.696568348129,
 			1.0
 		],
 		"rows":
